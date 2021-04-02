@@ -1,0 +1,42 @@
+.orange-bg{
+    background-color: #fceae6;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.price{
+    color: brown;
+}
+.buy-now{
+    background-image: linear-gradient(to bottom,#EB367E 0%,#EB367E 100%);
+    color:white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    padding: 9px 25px;
+}
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    color: white;
+  border-radius: 8px;
+}
+.cat1{
+    background-color: darkorange;
+}
+.cat2{
+    background-color: #EB367E;
+}
+.cat3{
+    background-color: blue;
+}
+.categories img{
+width: 100px;
+
+}
+.categories{
+ 
+    padding-top: 40px;
+    }
+.shoes{
+    padding-top: 40px;
+}
