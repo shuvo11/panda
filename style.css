@@ -40,3 +40,19 @@ width: 100px;
 .shoes{
     padding-top: 40px;
 }
+ 
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.container{
+    padding-top: 40px;
+}
+#subscriber{
+    margin-top: 50px;
+    height: 300px;
+}
+footer{
+    text-align: center;
+    margin-top: 50px;
+}
